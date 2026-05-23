@@ -1,0 +1,4 @@
+psycopg2
+re
+streamlit
+urllib.parse
